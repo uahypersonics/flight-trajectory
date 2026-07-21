@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "flight-trajectory"
+abstract: "Trajectory utilities"
+type: software
+authors:
+  - family-names: "Hader"
+    given-names: "Christoph"
+    affiliation: "University of Arizona"
+    orcid: "https://orcid.org/0000-0002-0956-000X"
+repository-code: "https://github.com/uahypersonics/flight-trajectory"
+url: "https://uahypersonics.github.io/flight-trajectory"
+license: BSD-3-Clause
+keywords:
+  - trajectory
+  - flight mechanics
+  - aerospace
+  - atmospheric entry
+  - hypersonics
