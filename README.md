@@ -4,7 +4,7 @@ Trajectory utilities for atmospheric and flight mechanics workflows.
 
 [![Test](https://github.com/uahypersonics/flight-trajectory/actions/workflows/test.yml/badge.svg)](https://github.com/uahypersonics/flight-trajectory/actions/workflows/test.yml)
 [![PyPI](https://img.shields.io/pypi/v/flight-trajectory)](https://pypi.org/project/flight-trajectory/)
-[![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://uahypersonics.github.io/flight-trajectory/)
+[![Docs](https://img.shields.io/badge/docs-zensical-blue)](https://uahypersonics.github.io/flight-trajectory/)
 [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-%E2%89%A53.11-blue.svg)](https://www.python.org/downloads/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -41,7 +41,7 @@ ruff check src/ tests/
 
 ## Documentation
 
-Project documentation is built with MkDocs and published at:
+Project documentation is built with Zensical and published at:
 
 https://uahypersonics.github.io/flight-trajectory/
 
